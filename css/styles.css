@@ -602,6 +602,7 @@ progress {
 }
 
 .img-fluid {
+  margin-top: 10px;
   max-width: 100%;
   height: auto;
 }
@@ -11363,3 +11364,7 @@ body.blocked{
   background-attachment: scroll;
   background-size: cover;
 } 
+
+.baton {
+  margin-top: 15px;
+}
