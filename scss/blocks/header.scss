@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_img {
+    //position: relative;
+    //left: 720px;
+    width: 200px;
+    height: 250px;
+    //text-align: center;
+}
+
+.header-logo {
+    position: relative;
+
+
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    //width: 600px;
+}
